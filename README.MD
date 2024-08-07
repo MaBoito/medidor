@@ -18,7 +18,6 @@ Quando atualizamos no scripts.js o valor do verificarVelocidade() obteremos os r
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
 - JavaScript
 - Git e Github
 
